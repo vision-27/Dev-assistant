@@ -17,7 +17,7 @@ pip install pyinstaller
 ### Step 2: Build the Executable
 ```bash
 # Download the build script
-curl -o build.sh https://raw.githubusercontent.com/your-repo/build.sh
+curl -o build.sh https://raw.githubusercontent.com/vision-27/OnionDev/refs/heads/main/build.sh
 chmod +x build.sh
 
 # Run the build
