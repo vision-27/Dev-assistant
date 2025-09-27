@@ -1,5 +1,4 @@
 # Dev-assistant
-# ConnectOnion Developer Assistant - Standalone Executable
 
 A powerful AI-powered developer tool that helps with context management, project setup, and error recovery.
 
